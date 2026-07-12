@@ -35,9 +35,9 @@ Add screenshots here after deployment.
 
 Example:
 
-![Home Page](screenshots/home_page.png)
+![Home Page](home_page.png)
 
-![Prediction Result](screenshots/result.png)
+![Prediction Result](result.png)
 
 ---
 

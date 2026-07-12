@@ -35,9 +35,11 @@ Add screenshots here after deployment.
 
 Example:
 
-![Home Page](home_page.png)
+Home page
+(home_page.png)
 
-![Prediction Result](result.png)
+prediction result
+(result.png)
 
 ---
 

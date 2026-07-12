@@ -12,7 +12,7 @@ This project is built using **Python**, **Scikit-learn**, and **Flask**, with a 
 
 Example:
 
-https://web-production-b4c43.up.railway.app/predict
+https://web-production-b4c43.up.railway.app/
 
 ---
 
